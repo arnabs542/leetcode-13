@@ -4,6 +4,8 @@ package Offer;/*
  *
  */
 
+import java.util.List;
+
 /**
  * 在这里编写类的功能描述
  *
@@ -14,6 +16,8 @@ public class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
+
+    List<TreeNode> children;
     TreeNode(int x){
         val=x;
     }
