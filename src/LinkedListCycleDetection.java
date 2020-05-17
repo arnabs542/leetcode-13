@@ -1,4 +1,3 @@
-package LeetCode;
 
 public class LinkedListCycleDetection {
 	

@@ -1,5 +1,3 @@
-package LeetCode;
-
 
 public class RegExpression {
 	
