@@ -1,0 +1,22 @@
+
+kafka
+
+high watermark vs log end Offset (LEO)
+
+https://stackoverflow.com/questions/39203215/kafka-difference-between-log-end-offsetleo-vs-high-watermarkhw
+
+
+https://cwiki.apache.org/confluence/display/KAFKA/kafka+Detailed+Replication+Design+V3
+
+
+Kafka 设计解析（三）：Kafka High Availability （下）
+https://www.infoq.cn/article/kafka-analysis-part-3
+
+
+Kafka 0.9 Consumer Rewrite Design
+https://cwiki.apache.org/confluence/display/KAFKA/Kafka+0.9+Consumer+Rewrite+Design
+https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Client-side+Assignment+Proposal
+
+
+https://cwiki.apache.org/confluence/display/KAFKA/Purgatory+Redesign+Proposal
+
